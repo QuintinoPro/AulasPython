@@ -12,7 +12,7 @@ Este projeto foi desenvolvido utilizando:
 <br>
 
 # Status do projeto
-Concluido.
+Em densenvolvimento
 
 <br>
 
